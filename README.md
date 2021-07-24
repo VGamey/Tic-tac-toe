@@ -8,6 +8,9 @@ JS Game - for developing my Js and css skills
 Для данного проект буду поддерживать правильную стратегию разработки. 
 Копия для разработки < - > Центральный репозиторий < - > Боевой сайт
 
+
 Копия для разработки -        DEVELOP    C:\LOCALHOST_DEVELOP\OpenServer\domains\tic-tac-toe.learn
+
 Центральный репозитарий -     CENTRAL    centr.ttt.medved-dv.ru
+
 Боевой сайт -                 BOY        ttt.medved-dv.ru
