@@ -10,3 +10,4 @@ JS Game - for developing my Js and css skills
 
 Копия для разработки -        DEVELOP    C:\LOCALHOST_DEVELOP\OpenServer\domains\tic-tac-toe.learn
 Центральный репозитарий -     CENTRAL    centr.ttt.medved-dv.ru
+Боевой сайт -                 BOY        ttt.medved-dv.ru
